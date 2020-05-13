@@ -1,5 +1,5 @@
-let n = 10;
-let m = 40;
+let m = 10;
+let n = 40;
 
 let result = 0;
 
