@@ -1,6 +1,6 @@
 let n = 20;
 let sum = '';
-let i = 0;
+let i = 1;
 
 while (i <= n) {
 
