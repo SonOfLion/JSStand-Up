@@ -7,6 +7,7 @@ for (let i = m; i <= n; i++) {
     if (i % 5 === 0) {
         // console.log("4 is called for number: " + i);
         console.log(i);
+        break;
     }
     if (i % 2 === 0 && i % 4 !== 0) {
         // console.log("1 is called for number: " + i);
