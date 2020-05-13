@@ -1,9 +1,9 @@
 let n = 10;
 let m = 40;
 
-let result;
+let result = 0;
 
-for (let i = m; m <= n; i++) {
+for (let i = m; m >= n; i++) {
     if (i % 5 === 0) {
         console.log("4 is called for number: " + i);
         console.log(i);
