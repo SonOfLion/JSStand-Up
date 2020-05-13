@@ -22,6 +22,6 @@ for (let i = m; i <= n; i++) {
     if (i % 4 === 0) {
         // console.log("3 is called for number: " + i);
         result *= i;
-        continue;
+        break;
     }
 }
