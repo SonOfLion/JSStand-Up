@@ -19,7 +19,6 @@ for (let i = m; i <= n; i++) {
         result -= i;
         continue;
     }
-
     if (i % 4 === 0) {
         // console.log("3 if is called " + i);
         result *= i;
