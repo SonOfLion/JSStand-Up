@@ -9,7 +9,7 @@ for (let i = m; i <= n; i++) {
         console.log(i);
         continue;
     }
-    if (i % 2 === 0 && i % 4 === 0) {
+    if (i % 2 === 0 && i % 4 !== 0) {
         console.log("1 is called for number: " + i);
         result += i;
         continue;
