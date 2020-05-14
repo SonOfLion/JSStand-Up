@@ -36,7 +36,7 @@ function sum(a, b) {
     output:undefined!;
 */
 function printAge(num) {
-    console.log('I am ' + num + ' years old');
+    console.log('I am' + num + 'years old');
 }
 
 /* ======> Arrow functions <======= */
