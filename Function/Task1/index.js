@@ -35,7 +35,7 @@ function sum(a, b) {
     input:number;
     output:undefined!;
 */
-function printAge(num) {
+function sum(num) {
     console.log('I am ' + num + ' years old');
 }
 
